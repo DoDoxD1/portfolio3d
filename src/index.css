@@ -213,3 +213,11 @@
 .bg-primary {
   background: #050816;
 }
+
+.bg-secondary {
+  background: #aaa6c3;
+}
+
+.border-secondary {
+  border: 0.25rem solid #aaa6c3;
+}
