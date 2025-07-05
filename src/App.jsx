@@ -10,7 +10,6 @@ import {
   Works,
   StarsCanvas,
 } from "./components";
-import "./App.css";
 
 function App() {
   return (
