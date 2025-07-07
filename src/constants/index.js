@@ -22,6 +22,8 @@ import {
   jobit,
   tripguide,
   threejs,
+  java,
+  angular
 } from "../assets";
 
 export const navLinks = [
@@ -53,20 +55,20 @@ const services = [
     icon: backend,
   },
   {
-    title: "Frontend Creator",
+    title: "Frontend Developer",
     icon: creator,
   },
 ];
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
-  },
+    name: "Java",
+    icon: java,
+  },  
   {
-    name: "CSS 3",
-    icon: css,
-  },
+    name: "Springboot",
+    icon: redux,
+  }, 
   {
     name: "JavaScript",
     icon: javascript,
@@ -76,40 +78,48 @@ const technologies = [
     icon: typescript,
   },
   {
-    name: "React JS",
-    icon: reactjs,
+    name: "Node JS",
+    icon: nodejs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "HTML 5",
+    icon: html,
+  },
+  {
+    name: "CSS 3",
+    icon: css,
   },
   {
     name: "Tailwind CSS",
     icon: tailwind,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
+    name: "React JS",
+    icon: reactjs,
+  },
+  {
+    name: "Angular JS",
+    icon: angular,
   },
   {
     name: "MongoDB",
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "docker",
+    icon: docker,
   },
   {
     name: "git",
     icon: git,
   },
   {
+    name: "Three JS",
+    icon: threejs,
+  },  
+  {
     name: "figma",
     icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
   },
 ];
 
