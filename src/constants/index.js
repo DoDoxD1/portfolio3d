@@ -191,12 +191,12 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Youtube Clone",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Built and load-tested RESTful APIs using Node.js, Express.js, and MongoDB, supporting over 1,000+ concurrent requests with <200 ms average response time.",
     tags: [
       {
-        name: "react",
+        name: "NodeJs",
         color: "blue-text-gradient",
       },
       {
@@ -204,54 +204,54 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "jwt",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/DoDoxD1/youtube-clone",
   },
   {
-    name: "Job IT",
+    name: "Home Automation",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Developed an advanced home automation app with Flutter, AWS and Firebase, improving smart device control by 40% through seamless hardware integration.",
     tags: [
       {
-        name: "react",
+        name: "flutter",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "java",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "api",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/DoDoxD1/fllutter-home-automation",
   },
   {
-    name: "Trip Guide",
+    name: "Codeana",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Designed and deployed an AI-powered code review system using SpringBoot and PostgreSQL, enabling detection of logic flaws, vulnerabilities, and best practice violations.",
     tags: [
       {
-        name: "nextjs",
+        name: "springboot",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "jwt",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "postgresql",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/DoDoxD1/codeana",
   },
 ];
 
