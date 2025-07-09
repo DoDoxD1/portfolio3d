@@ -221,3 +221,19 @@
 .border-secondary {
   border: 0.25rem solid #aaa6c3;
 }
+
+.bg-tertiary {
+  background: #151030;
+}
+
+.bg-black-100{
+  background: #100d25;
+}
+
+.bg-black-200{
+  background: #090325;
+}
+
+.bg-white-100{
+  background: #f3f3f3;
+}
